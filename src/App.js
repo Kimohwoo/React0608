@@ -1,7 +1,6 @@
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import ItemsPage from './React0608/pages/ItemsPage';
-import { useState } from 'react';
 
 function App() {
   return (
